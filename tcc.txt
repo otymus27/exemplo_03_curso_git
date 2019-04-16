@@ -2,6 +2,7 @@ Titulo: Utilizando o GIT
 Resumo: Esse trabalho visa mostrar
 sumario
 Cap1
+	Este Capítulo fala sobre como instalar o git no windows.
 Cap2
 Cap3
 ...
