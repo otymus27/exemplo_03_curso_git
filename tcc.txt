@@ -5,6 +5,7 @@ Cap1
 	Este Capítulo fala sobre como instalar o git no windows.
 Cap2
 Cap3
+	Este Capítulo fala sobre usar comandos dentro do git.
 ...
 Referencias
 ...
